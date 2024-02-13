@@ -1,0 +1,6 @@
+* Anexos (Descripción de los Datos)
+- ID: Identificador de la venta.
+- Store ID: Identificador de la tienda.
+- Total Price: Precio al que se vendió el producto.
+- Base Price: Precio base del producto.
+- Units Sold: Unidades vendidas (cantidad demandada).
